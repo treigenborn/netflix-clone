@@ -110,7 +110,6 @@ export const SearchIcon = styled.button`
 export const ButtonLink = styled(ReactRouterLink)`
   display: block;
   background-color: #e50914;
-  width: 84px;
   height: fit-content;
   color: white;
   border: 0;
